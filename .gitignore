@@ -1,0 +1,103 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.so
+
+# Django
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+*.db
+*.mo
+*.pot
+local_settings.py
+db.sqlite3
+
+# Virtual Environments
+venv/
+ENV/
+env/
+env.bak/
+env.bak/
+env.bak.bak/
+venv.bak/
+venv.bak.bak/
+venv.bak.bak.bak/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables
+.env
+.env.*
+
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Backup files
+*.bak
+*.old
+*.orig
+
+# Test files
+*.cover
+*.coverage
+*.coveragerc
+*.cov
+*.egg
+*.egg-info
+*.manifest
+*.nupkg
+*.pyd
+*.py[cod]
+*.pyup
+*.whl
+*.work
+.hypothesis/
+
+# Static files
+staticfiles/
+media/
+
+# Translations
+*.po
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
